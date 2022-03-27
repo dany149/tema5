@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243147678243",
+    "project_id": "basededatosfirebase-ab2b1",
+    "storage_bucket": "basededatosfirebase-ab2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243147678243:android:f2cd44c659f8f1d7b8c796",
+        "android_client_info": {
+          "package_name": "com.example.basesdedatossqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243147678243-fm637scqd0l58rq5t26t18lm5u8gqs67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOxwD-EZrKp_WPKepfAEpWH_L3Zh6VpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243147678243-fm637scqd0l58rq5t26t18lm5u8gqs67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
